@@ -1,0 +1,32 @@
+_repo: The-English-Governess-at-the-Siamese-Court-Being-Recollections-of-Six-Years-in-the-Royal-Palac__8678
+creator:
+  author:
+    agent_name: Leonowens, Anna Harriette
+    aliases:
+    - Owens, Anna Leon
+    - Leonowens, Anna Harriette (Crawford)
+    birthdate: 1831
+    deathdate: 1915
+    gutenberg_agent_id: '2847'
+    url: http://www.gutenberg.org/2009/agents/2847
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Leonowens
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8678'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'British -- Thailand -- History -- 19th century'
+- !lcsh 'Governesses -- Thailand -- Biography'
+- !lcsh 'Mongkut, King of Siam, 1804-1868'
+- !lcsh 'Thailand -- Social life and customs'
+- !lcsh 'Leonowens, Anna Harriette, 1831-1915 -- Homes and haunts -- Thailand'
+title: 'The English Governess at the Siamese Court
+
+  Being Recollections of Six Years in the Royal Palace at Bangkok'
+url: http://www.gutenberg.org/ebooks/8678
